@@ -1,3 +1,5 @@
 config.json
 data/
 todo.txt
+.DS_Store
+coach_image_scrapper.py
