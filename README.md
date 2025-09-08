@@ -4,7 +4,7 @@
 
 Create the conda env
 ```
-conda env create env.yml
+conda env create -f env.yml
 ```
 
 Actviate conda env
